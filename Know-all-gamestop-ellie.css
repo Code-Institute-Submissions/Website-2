@@ -1,0 +1,80 @@
+body {
+	margin: 0;
+	background-color: rgb(73, 73, 73);
+}
+
+.page-header {
+    text-shadow: 8px 8px 13px rgb(0, 0, 0);
+    text-align: center;
+    line-height: 475px;
+    background-attachment: fixed;
+    padding: 70px;
+	block-size: 50vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center 150%;
+    font-family: 'couture';
+    color: white;
+    font-size: 75px;
+    background-image: url(https://uploads.jovemnerd.com.br/wp-content/uploads/2018/06/the-last-of-us-especial-teorias.png);
+}
+
+.black-background {
+    padding: 25px 5px;
+    text-align: center;
+    border-radius: 8px;
+	inline-size: 95.5%;
+	margin: 2%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+nav > a {
+    font-family: "couture";
+    font-size: 20px;
+    color: white;
+    margin: 263.68px;
+}
+
+img {
+	border-radius: 8px;
+	inline-size: 29.19%;
+	margin: 2%;
+    box-shadow: 10px 5px 5px black;
+}
+
+h1 {
+    color: white;
+    font-family: "couture";
+    font-size: 40px;
+    text-align: center;
+}
+.about {
+    inline-size: 29%;
+    padding-block-end: 2%;
+    margin: auto;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border-radius: 8px;
+    font-size: 25px;
+    font-family: Mason-Serif-Regular;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    @font-face
+        font-family:"thewitcher-medium";
+        src:url("https://dafonttop.com/wp-data/t/406/6406/file/thewitcher-4.ttf") format("woff"),
+        url("https://dafonttop.com/wp-data/t/406/6406/file/thewitcher-4.ttf") format("opentype"),
+        url("https://dafonttop.com/wp-data/t/406/6406/file/thewitcher-4.ttf") format("truetype");
+    }
+    span.font0{font-family:"thewitcher-medium";font-size:50px;text-transform:none;
+
+}
+
+footer {
+	background-color: #000000;
+	padding: 1em;
+	text-align: center;
+    color: #FFFFFF;
+    font-family: couture;
+}
