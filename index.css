@@ -4,20 +4,33 @@ body {
 	background-color: rgb(73, 73, 73);
 }
 
-.page-header {
-    text-shadow: 8px 8px 13px rgb(0, 0, 0);
+h1 {
+	font-size: 3rem;
+	margin: 0;
+}
+
+.text-center {
     text-align: center;
-    line-height: 475px;
-    background-attachment: fixed;
-    padding: 70px;
+}
+
+.page-header {
 	block-size: 50vh;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center 300%;
+	background: center 75% / cover no-repeat;
+}
+
+#home {
+    background-image: url("https://cdn.mos.cms.futurecdn.net/gXMT3NvriqiKAPoapwZZ9h.jpg");
+}
+
+.vertical-center {
+    position: relative;
+    inset-block-start: 30%;
+}
+
+header {
+    text-shadow: 8px 8px 13px rgb(0, 0, 0);
     font-family: 'couture';
     color: white;
-    font-size: 75px;
-    background-image: url(https://cdn.mos.cms.futurecdn.net/gXMT3NvriqiKAPoapwZZ9h.jpg);
 }
 
 nav > a {
