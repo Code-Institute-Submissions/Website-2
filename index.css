@@ -58,6 +58,13 @@ img {
     box-shadow: 10px 5px 5px black;
 }
 
+h2 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: conture;
+    vertical-align: auto;
+}
+
 footer {
 	background-color: #000000;
 	padding: 1em;
