@@ -61,14 +61,6 @@ h1 {
     font-family: Mason-Serif-Regular;
     border: 2px solid rgb(255, 255, 255);
     border-radius: 5px;
-    @font-face
-        font-family:"thewitcher-medium";
-        src:url("https://dafonttop.com/wp-data/t/406/6406/file/thewitcher-4.ttf") format("woff"),
-        url("https://dafonttop.com/wp-data/t/406/6406/file/thewitcher-4.ttf") format("opentype"),
-        url("https://dafonttop.com/wp-data/t/406/6406/file/thewitcher-4.ttf") format("truetype");
-    }
-    span.font0{font-family:"thewitcher-medium";font-size:50px;text-transform:none;
-
 }
 
 footer {
