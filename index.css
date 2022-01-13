@@ -64,6 +64,11 @@ h2 {
     font-family: "couture";
     vertical-align: auto;
 }
+.form {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "couture";
+}
 
 footer {
 	background-color: #000000;
