@@ -90,3 +90,27 @@ footer {
     color: #FFFFFF;
     font-family: couture;
 }
+
+@media screen and (max-width: 768px) {
+    .text-center {
+        text-align: center;
+        box-sizing: border-box;
+    }
+    
+    .page-header {
+        block-size: 50vh;
+        background: center 75% / cover no-repeat;
+        box-sizing: border-box;
+    }
+    
+    #home {
+        background-image: url("https://cdn.mos.cms.futurecdn.net/gXMT3NvriqiKAPoapwZZ9h.jpg");
+        box-sizing: border-box;
+    }
+    
+    .vertical-center {
+        position: relative;
+        inset-block-start: 30%;
+        box-sizing: border-box;
+    }
+}
