@@ -92,5 +92,12 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-    
+    body {
+        margin: 0;
+    }
+
+    .black-background {
+        text-align: center;
+        align-items: center;
+    }
 }
