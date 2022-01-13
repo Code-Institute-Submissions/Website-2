@@ -45,6 +45,8 @@ nav > div {
     box-sizing: border-box;
     color: white;
     text-decoration: underline;
+    display: inline;
+    margin: 0 261px;
 }
 
 .black-background {
