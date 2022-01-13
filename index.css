@@ -39,12 +39,11 @@ header {
     box-sizing: border-box;
 }
 
-nav > a {
+nav > div {
     font-family: "couture";
     font-size: 20px;
     box-sizing: border-box;
     color: white;
-    margin: 263.68px;
     text-decoration: underline;
 }
 
@@ -98,6 +97,13 @@ footer {
 
     .black-background {
         text-align: center;
-        align-items: center;
+        font-family: "couture";
+        position: relative;
+    }
+
+    nav > div {
+        position: absolute;
+        top: 5px;
+        text-align: center;
     }
 }
