@@ -113,4 +113,9 @@ footer {
         inset-block-start: 30%;
         box-sizing: border-box;
     }
+    
+    body {
+        margin: 0;
+        background-color: rgb(73, 73, 73);
+    }
 }
