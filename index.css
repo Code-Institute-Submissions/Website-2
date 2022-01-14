@@ -140,6 +140,7 @@ footer {
 @media screen and (max-width: 828px) {
     body {
         margin: 0;
+        font-family: "couture";
     }
 
     .black-background {
