@@ -63,6 +63,11 @@ h1 {
     border-radius: 5px;
 }
 
+iframe {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
 footer {
 	background-color: #000000;
 	padding: 1em;
