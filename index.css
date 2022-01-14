@@ -80,7 +80,7 @@ h2 {
     color: #FFFFFF;
     box-sizing: border-box;
     font-family: "couture";
-    padding: 2%;
+    margin-bottom: 4%;
 }
 
 footer {
@@ -90,92 +90,4 @@ footer {
     box-sizing: border-box;
     color: #FFFFFF;
     font-family: couture;
-}
-
-@media screen and (max-width: 768px) {
-    body {
-        margin: 0;
-    }
-
-    .black-background {
-        text-align: center;
-        font-family: "couture";
-        margin-bottom: 4%;
-    }
-
-    nav > a {
-        text-align: center;
-        display: inline;
-        margin: 0 80px;
-    }
-
-    img {
-        border-radius: 8px;
-        box-sizing: border-box;
-        margin: 0 14px;
-        box-shadow: 10px 5px 5px black;
-    }
-
-    .form {
-        text-align: center;
-        color: #FFFFFF;
-        box-sizing: border-box;
-        font-family: "couture";
-        padding: 2%;
-        margin-bottom: 4%;
-    }
-
-    footer {
-        background-color: #000000;
-        padding: 2em;
-        text-align: center;
-        box-sizing: border-box;
-        color: #FFFFFF;
-        font-family: couture;
-    }
-
-}
-
-@media screen and (max-width: 828px) {
-    body {
-        margin: 0;
-        font-family: "couture";
-    }
-
-    .black-background {
-        text-align: center;
-        font-family: "couture";
-        margin-bottom: 4%;
-    }
-
-    nav > a {
-        text-align: center;
-        display: inline;
-        margin: 0 80px;
-    }
-
-    img {
-        border-radius: 8px;
-        box-sizing: border-box;
-        box-shadow: 10px 5px 5px black;
-        
-    }
-
-    .form {
-        text-align: center;
-        color: #FFFFFF;
-        box-sizing: border-box;
-        font-family: "couture";
-        padding: 2%;
-        margin-bottom: 4%;
-        margin-top: 4%;
-    }
-
-    footer {
-        padding: 2em;
-        text-align: center;
-        color: #FFFFFF;
-        bottom: 0;
-    }
-
 }
