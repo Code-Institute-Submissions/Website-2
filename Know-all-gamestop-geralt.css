@@ -61,10 +61,6 @@ h1 {
     font-family: Mason-Serif-Regular;
     border: 2px solid rgb(255, 255, 255);
     border-radius: 5px;
-}
-
-iframe {
-    margin-top: 4%;
     margin-bottom: 4%;
 }
 
@@ -74,4 +70,5 @@ footer {
 	text-align: center;
     color: #FFFFFF;
     font-family: couture;
+    margin-top: 4%;
 }
