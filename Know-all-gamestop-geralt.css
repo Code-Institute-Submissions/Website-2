@@ -60,6 +60,10 @@ h1 {
     margin-bottom: 4%;
 }
 
+iframe {
+    border: 2px solid rgb(255, 255, 255);
+}
+
 footer {
 	background-color: #000000;
 	padding: 1em;
