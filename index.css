@@ -80,10 +80,10 @@ h2 {
     color: #FFFFFF;
     box-sizing: border-box;
     font-family: "couture";
-    margin-bottom: 4%;
 }
 
 footer {
+    margin-top: 4%;
 	background-color: #000000;
 	padding: 1em;
 	text-align: center;
