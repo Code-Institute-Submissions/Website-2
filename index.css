@@ -39,7 +39,7 @@ header {
     box-sizing: border-box;
 }
 
-nav > div {
+nav > a {
     font-family: "couture";
     font-size: 20px;
     box-sizing: border-box;
@@ -103,7 +103,7 @@ footer {
         margin-bottom: 4%;
     }
 
-    nav > div {
+    nav > a {
         text-align: center;
         display: inline;
         margin: 0 80px;
@@ -149,7 +149,7 @@ footer {
         margin-bottom: 4%;
     }
 
-    nav > div {
+    nav > a {
         text-align: center;
         display: inline;
         margin: 0 80px;
