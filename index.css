@@ -1,12 +1,25 @@
-@import url('https://fonts.googleapis.com/css?family=Merienda+One|Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
 body {
-	margin: 0;
-	background-color: rgb(73, 73, 73);
+    margin: 0;
+    background-color: rgb(73, 73, 73);
 }
 
-h1 {
-	font-size: 3rem;
-	margin: 0;
+.logo {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
+}
+
+.h1 {
+    font-size: 3rem;
+    margin: 0;
     box-sizing: border-box;
 }
 
@@ -16,8 +29,8 @@ h1 {
 }
 
 .page-header {
-	block-size: 50vh;
-	background: center 75% / cover no-repeat;
+    block-size: 50vh;
+    background: center 75% / cover no-repeat;
     box-sizing: border-box;
 }
 
@@ -39,7 +52,7 @@ header {
     box-sizing: border-box;
 }
 
-nav > a {
+nav>a {
     font-family: "couture";
     font-size: 20px;
     box-sizing: border-box;
@@ -54,17 +67,18 @@ nav > a {
     text-align: center;
     border-radius: 8px;
     box-sizing: border-box;
-	inline-size: 95.5%;
-	margin: 2%;
+    inline-size: 95.5%;
+    margin: 2%;
     background-color: rgb(0, 0, 0);
     border: 2px solid rgb(255, 255, 255);
     border-radius: 5px;
 }
+
 img {
-	border-radius: 8px;
-	inline-size: 29.19%;
+    border-radius: 8px;
+    inline-size: 29.19%;
     box-sizing: border-box;
-	margin: 2%;
+    margin: 2%;
     box-shadow: 10px 5px 5px black;
 }
 
@@ -75,6 +89,7 @@ h2 {
     font-family: "couture";
     vertical-align: auto;
 }
+
 .form {
     text-align: center;
     color: #FFFFFF;
@@ -84,9 +99,9 @@ h2 {
 
 footer {
     margin-top: 4%;
-	background-color: #000000;
-	padding: 1em;
-	text-align: center;
+    background-color: #000000;
+    padding: 1em;
+    text-align: center;
     box-sizing: border-box;
     color: #FFFFFF;
     font-family: couture;
