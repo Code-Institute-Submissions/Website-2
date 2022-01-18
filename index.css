@@ -78,4 +78,6 @@ footer {
 .footer-nav li {
     list-style-type: none;
     display: inline;
+    color: white;
+    margin: 0 261px;
 }
