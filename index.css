@@ -18,7 +18,8 @@ h1 {
     block-size: 50vh;
     background: center 75% / cover no-repeat;
 
-#home {background-image: url(images/hero-img.jpg);}
+#home {
+    background-image: url(images/hero-img.jpg); }
 
 .vertical-center {
     position: relative;
