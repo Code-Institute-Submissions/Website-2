@@ -97,4 +97,5 @@ footer {
 
 .footer-nav li {
     list-style-type: none;
+    display: inline;
 }
