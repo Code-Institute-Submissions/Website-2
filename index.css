@@ -94,3 +94,7 @@ footer {
     color: #FFFFFF;
     font-family: couture;
 }
+
+.footer-nav li {
+    list-style-type: none;
+}
