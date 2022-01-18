@@ -8,44 +8,33 @@ body {
 h1 {
     font-size: 3rem;
     margin: 0;
-    box-sizing: border-box;
 }
 
 .text-center {
     text-align: center;
-    box-sizing: border-box;
 }
 
 .page-header {
     block-size: 50vh;
     background: center 75% / cover no-repeat;
-    box-sizing: border-box;
-}
 
-#home {
-    background-image: url(images/hero-img.jpg);
-    box-sizing: border-box;
-}
+#home {background-image: url(images/hero-img.jpg);}
 
 .vertical-center {
     position: relative;
     inset-block-start: 30%;
-    box-sizing: border-box;
 }
 
 header {
     text-shadow: 8px 8px 13px rgb(0, 0, 0);
     font-family: 'couture';
     color: white;
-    box-sizing: border-box;
 }
 
 nav>a {
     font-family: "couture";
     font-size: 20px;
-    box-sizing: border-box;
     color: white;
-    text-decoration: underline;
     display: inline;
     margin: 0 261px;
 }
@@ -54,7 +43,6 @@ nav>a {
     padding: 25px 5px;
     text-align: center;
     border-radius: 8px;
-    box-sizing: border-box;
     inline-size: 95.5%;
     margin: 2%;
     background-color: rgb(0, 0, 0);
@@ -65,7 +53,6 @@ nav>a {
 img {
     border-radius: 8px;
     inline-size: 29.19%;
-    box-sizing: border-box;
     margin: 2%;
     box-shadow: 10px 5px 5px black;
 }
@@ -73,7 +60,6 @@ img {
 h2 {
     text-align: center;
     color: #FFFFFF;
-    box-sizing: border-box;
     font-family: "couture";
     vertical-align: auto;
 }
@@ -84,7 +70,6 @@ footer {
     background-color: #000000;
     padding: 1em;
     text-align: center;
-    box-sizing: border-box;
     color: #FFFFFF;
     font-family: couture;
 }
