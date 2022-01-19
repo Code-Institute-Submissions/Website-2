@@ -94,4 +94,11 @@ footer p {
         margin: 0 80px;
         text-decoration: none;
     }
+
+    img {
+        border-radius: 8px;
+        inline-size: 28.987%;
+        margin: 2%;
+        box-shadow: 10px 5px 5px black;
+    }
 }
