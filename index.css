@@ -77,6 +77,7 @@ footer p {
     list-style-type: none;
     display: inline;
     margin: 0 20px;
+    padding: 1em;
 }
 
 .footer-nav a {
