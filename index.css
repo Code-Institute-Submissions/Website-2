@@ -84,3 +84,14 @@ footer p {
     text-decoration: none;
     padding-left: 46.5%;
 }
+
+@media screen and (max-width: 768px){
+    nav>a {
+        font-family: "couture";
+        font-size: 20px;
+        color: white;
+        display: inline;
+        margin: 0 100px;
+        text-decoration: none;
+    }
+}
