@@ -117,6 +117,14 @@ footer p {
 
     }
 
+    .footer-nav a {
+        color: white;
+        font-family: "couture";
+        text-decoration: none;
+        padding-left: 32%;
+    }
+    
+
     .black-background {
         padding: 25px 5px;
         text-align: center;
