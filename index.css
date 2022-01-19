@@ -85,43 +85,8 @@ footer p {
     padding-left: 46.5%;
 }
 
-@media screen and (max-width: 768px){
-    nav>a {
-        font-family: "couture";
-        font-size: 20px;
-        color: white;
-        display: inline;
-        margin: 0 80px;
-        text-decoration: none;
-    }
 
-    img {
-        border-radius: 8px;
-        inline-size: 28.987%;
-        margin: 2%;
-        box-shadow: 10px 5px 5px black;
-    }
-
-
-    footer {
-        margin-top: 4%;
-        background-color: #000000;
-        padding: 1em;
-        
-    }
-
-    .black-background {
-        padding: 25px 5px;
-        text-align: center;
-        border-radius: 8px;
-        margin: 2%;
-        background-color: rgb(0, 0, 0);
-        border: 2px solid rgb(255, 255, 255);
-        border-radius: 5px;
-    }
-}
-
-@media screen and (max-width: 414px){
+@media screen and (min-width: 414px){
     nav>a {
         font-family: "couture";
         font-size: 20px;
