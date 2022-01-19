@@ -93,7 +93,6 @@ footer p {
         background-color: rgb(73, 73, 73);
     }
 
-
     nav>a {
         font-family: "couture";
         font-size: 20px;
@@ -126,5 +125,6 @@ footer p {
         background-color: rgb(0, 0, 0);
         border: 2px solid rgb(255, 255, 255);
         border-radius: 5px;
+        inline-size: 93%;
     }
 }
