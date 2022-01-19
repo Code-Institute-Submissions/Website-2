@@ -76,11 +76,11 @@ footer p {
 .footer-nav li {
     list-style-type: none;
     display: inline;
-    margin: 0 100px;
 }
 
 .footer-nav a {
     color: white;
     font-family: "couture";
     text-decoration: none;
+    margin: 0 100px;
 }
