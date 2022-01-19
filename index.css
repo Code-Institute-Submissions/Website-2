@@ -86,7 +86,7 @@ footer p {
 }
 
 
-@media screen and (min-width: 414px){
+@media screen and (max-width: 414px){
     nav>a {
         font-family: "couture";
         font-size: 20px;
