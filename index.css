@@ -129,8 +129,8 @@ footer p {
         margin: 0;
     }
 
-    p {
-        font-size: 1px;
+    header p {
+        font-size: 5px;
     }
 
     nav>a {
