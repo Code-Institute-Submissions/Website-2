@@ -133,6 +133,10 @@ footer p {
         font-size: 10px;
     }
 
+    .black-background {
+        inline-size: 32%;
+    }
+
     nav>a {
         margin: 0 7.74px;
     }
