@@ -1,6 +1,9 @@
 body {
-	margin: 0;
-	background-color: rgb(73, 73, 73);
+    margin: 0;
+    background-color: rgb(73, 73, 73);
+    font-family: 'Couture';
+    font-weight: bold;
+    font-style: normal;
 }
 
 h1 {
@@ -19,6 +22,12 @@ h1 {
 
 #home {
     background-image: url(images/Witcher-Background.jpg);
+}
+
+header {
+    text-shadow: 8px 8px 13px rgb(0, 0, 0);
+    font-family: 'couture';
+    color: white;
 }
 
 nav > a {
