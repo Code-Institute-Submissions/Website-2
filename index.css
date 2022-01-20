@@ -85,8 +85,8 @@ footer p {
     padding-left: 46.5%;
 }
 
-@media screen and (max-width:1886) {
+@media screen and (max-width:1600) {
     nav>a {
-        margin: 0 260px;
+        margin: 0 215px;
     }
 }
