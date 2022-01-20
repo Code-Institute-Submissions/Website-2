@@ -110,6 +110,9 @@ footer {
     .page-header {
         padding: 88%;
     }
+    .black-background {
+        inline-size: 167%;
+    }
 
     img {
         inline-size: 167%;
