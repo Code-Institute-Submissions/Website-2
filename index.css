@@ -158,11 +158,6 @@ footer p {
 
 @media screen and (max-width: 320px) {
 
-    body {
-        margin: 0;
-        background-color: rgb(73, 73, 73);
-    }
-
     h1 {
         font-size: 15px;
         margin: 0;
@@ -173,19 +168,11 @@ footer p {
     }
 
     nav>a {
-        font-family: "couture";
-        font-size: 20px;
-        color: white;
-        display: inline;
-        margin: 0 25px;
-        text-decoration: none;
+        margin: 0 10.39px;
     }
 
     img {
-        border-radius: 8px;
-        inline-size: 95%;
         margin: 2%;
-        box-shadow: 10px 5px 5px black;
     }
 
 
