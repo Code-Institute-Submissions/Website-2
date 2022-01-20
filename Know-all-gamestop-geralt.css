@@ -35,12 +35,6 @@ img {
     box-shadow: 10px 5px 5px black;
 }
 
-h1 {
-    color: white;
-    font-family: "couture";
-    font-size: 40px;
-    text-align: center;
-}
 .about {
     inline-size: 29%;
     margin: auto;
