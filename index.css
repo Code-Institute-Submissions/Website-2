@@ -122,6 +122,16 @@ footer p {
     }
 }
 
+@media screen and (max-width: 414px) {
+    .black-background {
+        inline-size: 93%;
+    }
+
+    .footer-nav a {
+        padding-left: 32%;
+    }
+}
+
 @media screen and (max-width: 320px) {
 
     h1 {
@@ -147,15 +157,5 @@ footer p {
 
     .footer-nav a {
         padding-left: 24%;
-    }
-}
-
-@media screen and (max-width: 414px) {
-    .black-background {
-        inline-size: 93%;
-    }
-
-    .footer-nav a {
-        padding-left: 32%;
     }
 }
