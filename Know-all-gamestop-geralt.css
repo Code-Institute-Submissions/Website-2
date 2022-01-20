@@ -105,3 +105,10 @@ footer {
         inline-size: 60%;
     }
 }
+
+@media screen and (max-width: 320px) {
+
+    img {
+        inline-size: 29.12%;
+    }
+}
