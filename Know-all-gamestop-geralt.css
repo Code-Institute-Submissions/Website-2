@@ -60,6 +60,18 @@ h1 {
     margin-bottom: 4%;
 }
 
+.footer-nav li {
+    list-style-type: none;
+    display: inline;
+}
+
+.footer-nav a {
+    color: white;
+    font-family: "couture";
+    text-decoration: none;
+    padding-left: 46.5%;
+}
+
 footer {
 	background-color: #000000;
 	padding: 1em;
