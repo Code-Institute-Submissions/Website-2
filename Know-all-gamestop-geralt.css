@@ -107,8 +107,11 @@ footer {
 }
 
 @media screen and (max-width: 320px) {
+    .page-header {
+        padding: 88%;
+    }
 
     img {
-        inline-size: 29.12%;
+        inline-size: 167%;
     }
 }
