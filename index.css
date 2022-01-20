@@ -86,9 +86,7 @@ footer p {
 }
 
 @media screen and (max-width:1886) {
-    .black-background {
-        width: 65%;
-        height: 1886;
-        margin: 0 auto;
+    nav>a {
+        margin: 0 260px;
     }
 }
