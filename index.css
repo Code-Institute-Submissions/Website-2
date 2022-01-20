@@ -89,5 +89,6 @@ footer p {
     .black-background {
         width: 65%;
         height: 1886;
+        margin: 0 auto;
     }
 }
