@@ -140,4 +140,9 @@ footer {
         position: relative;
         inset-block-start: 30%;
     }
+
+    nav > a {
+        margin: 263.68px;
+    }
+    
 }
