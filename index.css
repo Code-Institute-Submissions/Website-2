@@ -123,6 +123,10 @@ footer p {
     .footer-nav a {
         padding-left: 41%;
     }
+
+    .black-background {
+        margin-right: 4%;
+    }
 }
 
 @media screen and (max-width: 414px) {
