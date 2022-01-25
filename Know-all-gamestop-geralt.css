@@ -101,7 +101,7 @@ footer {
 @media screen and (max-width: 1600px) {
 
     img {
-        inline-size: 29.13%;
+        inline-size: 29.12%;
     }
 }
 
@@ -115,7 +115,7 @@ footer {
 @media screen and (max-width: 768px) {
 
     img {
-        inline-size: 28.98%;
+        inline-size: 28.91%;
     }
 
     .about {
@@ -127,11 +127,17 @@ footer {
     .page-header {
         padding: 88%;
     }
+
     .black-background {
         inline-size: 167%;
     }
 
     img {
         inline-size: 167%;
+    }
+
+    .vertical-center {
+        position: relative;
+        inset-block-start: 30%;
     }
 }
