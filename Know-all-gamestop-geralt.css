@@ -152,5 +152,9 @@ footer {
     nav > a {
         margin: 26px;
     }
+
+    .about {
+        inline-size: 100%;
+    }
     
 }
