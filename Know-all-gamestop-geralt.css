@@ -156,5 +156,9 @@ footer {
     .about {
         inline-size: 100%;
     }
+
+    footer {
+        margin-right: 0%;
+    }
     
 }
