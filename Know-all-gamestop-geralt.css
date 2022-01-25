@@ -31,6 +31,11 @@ div h1 {
     background-image: url(images/Witcher-Background.jpg);
 }
 
+.vertical-center {
+    position: relative;
+    inset-block-start: 30%;
+}
+
 header {
     text-shadow: 8px 8px 13px rgb(0, 0, 0);
     font-family: 'couture';
