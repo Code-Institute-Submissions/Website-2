@@ -124,6 +124,14 @@ footer {
 }
 
 @media screen and (max-width: 320px) {
+    body {
+        margin: 0;
+        background-color: rgb(73, 73, 73);
+        font-family: 'Couture';
+        font-weight: bold;
+        font-style: normal;
+    }
+
     .page-header {
         padding: 88%;
     }
