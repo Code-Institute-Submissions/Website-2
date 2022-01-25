@@ -94,17 +94,17 @@ footer p {
     }
 
     img {
-        inline-size: 29.131%;
+        inline-size: 29.12%;
     }
 }
 
 @media screen and (max-width:1280px) {
     nav>a {
-        margin: 0 161.8px;
+        margin: 0 161.53px;
     }
 
     img {
-        inline-size: 29.1%;
+        inline-size: 29%;
     }
 }
 
