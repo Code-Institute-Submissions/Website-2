@@ -129,6 +129,10 @@ footer {
 
 @media screen and (max-width: 320px) {
     img {
-        inline-size: 95%;
+        inline-size: 170%;
+    }
+
+    .black-background {
+        inline-size: 166%;
     }
 }
