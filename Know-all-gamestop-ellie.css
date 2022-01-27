@@ -102,5 +102,33 @@ footer {
 
 
 @media screen and (max-width: 320px) {
-   
+    .page-header {
+        block-size: 400px;
+        margin-top: -12%;
+    }
+
+    nav > a {
+        margin: 26px;
+    }
+
+    .black-background {
+        inline-size: 92%;
+    }
+    h2 {
+        margin-top: 6%;
+        margin-bottom: 6%;
+    }
+
+    .about {
+        inline-size: 94.5%;
+        margin-bottom: 6%;
+    }
+
+    .yt {
+        inline-size: 100%;
+    }
+    
+    .footer-nav a {
+        padding-right: 12%;
+    }
 }
