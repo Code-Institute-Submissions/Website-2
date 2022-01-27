@@ -75,3 +75,18 @@ footer {
         inline-size: 29.12%;
     }
 }
+
+@media screen and (max-width: 768px) {
+
+    img {
+        inline-size: 95%;
+    }
+
+    .about {
+        inline-size: 60%;
+    }
+
+    .footer-nav a {
+        padding-right: 5%;
+    }
+}
