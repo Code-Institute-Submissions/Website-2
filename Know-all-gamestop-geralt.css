@@ -128,6 +128,10 @@ footer {
 }
 
 @media screen and (max-width: 320px) {
+    nav > a {
+        margin: 263.68px;
+    }
+
     img {
         inline-size: 170%;
     }
