@@ -80,3 +80,20 @@ footer {
     font-family: couture;
     margin-top: 4%;
 }
+
+@media screen and (max-width: 1600px) {
+    img {
+        inline-size: 29.12%;
+    }
+}
+
+
+@media screen and (max-width: 1280px) {
+
+
+@media screen and (max-width: 768px) {
+
+
+@media screen and (max-width: 320px) {
+   
+}
