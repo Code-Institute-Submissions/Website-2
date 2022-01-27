@@ -128,28 +128,9 @@ footer {
 }
 
 @media screen and (max-width: 320px) {
-    h1 {
-        font-size: 15px;
-        margin: 0;
-    }
-
-    header p {
-        font-size: 10px;
-    }
-
-    .black-background {
-        inline-size: 91%;
-    }
-
-    nav>a {
-        margin: 0 7.74px;
-    }
-
-    img {
-        margin: 2%;
-    }
-
-    .footer-nav a {
-        padding-left: 24%;
+    body {
+        margin: 0%;
+        height: 480px;
+        width: 320;
     }
 }
