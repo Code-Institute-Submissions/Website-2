@@ -44,7 +44,7 @@ img {
     box-shadow: 10px 5px 5px black;
 }
 
-h1 {
+h2 {
     color: white;
     font-family: "couture";
     font-size: 40px;
@@ -103,7 +103,7 @@ footer {
 
 @media screen and (max-width: 320px) {
     .page-header {
-        block-size: 400px;
+        block-size: 150px;
         margin-top: -12%;
         line-height: 100px;
         font-size: 25px;
