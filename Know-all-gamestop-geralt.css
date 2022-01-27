@@ -169,7 +169,6 @@ footer {
     }
     
     footer {
-        padding: 1em; 
-        margin-top: 4%;
+       inline-size: 75%;
     }
 }
