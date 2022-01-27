@@ -135,4 +135,7 @@ footer {
     .black-background {
         inline-size: 166%;
     }
+    h1 {
+        margin-left: 50%;
+    }
 }
