@@ -91,6 +91,9 @@ footer {
     img {
         inline-size: 95%;
     }
+    .about {
+        inline-size: 60%;
+    }
 }
 
 
