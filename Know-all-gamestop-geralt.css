@@ -115,11 +115,15 @@ footer {
 @media screen and (max-width: 768px) {
 
     img {
-        inline-size: 28.91%;
+        inline-size: 95%;
     }
 
     .about {
         inline-size: 60%;
+    }
+
+    .footer-nav a {
+        padding-right: 2%;
     }
 }
 
