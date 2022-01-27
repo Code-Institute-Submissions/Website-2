@@ -94,6 +94,10 @@ footer {
     .about {
         inline-size: 60%;
     }
+    .page-header {
+        line-height: 200px;
+        font-size: 50px;
+    }
 }
 
 
