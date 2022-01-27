@@ -130,7 +130,8 @@ footer {
 @media screen and (max-width: 320px) {
     .page-header {
         block-size: 400px;
-        inline-size: 95%;
+        inline-size: 176%;
+        margin-top: 0%;
     }
 
     nav > a {
