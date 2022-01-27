@@ -167,4 +167,9 @@ footer {
         inline-size: 173%;
         margin-bottom: 6%;
     }
+    
+    footer {
+        padding: 1em; 
+        margin-top: 4%;
+    }
 }
