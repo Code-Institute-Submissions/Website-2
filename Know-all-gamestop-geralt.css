@@ -136,10 +136,12 @@ footer {
         inline-size: 166%;
     }
     h1 {
-        margin-left: 50%;
+        margin-right: -75%;
+        margin-top: 4%;
+        margin-bottom: 4%;
     }
 
     .about {
-        inline-size: 100%;
+        inline-size: 173%;
     }
 }
