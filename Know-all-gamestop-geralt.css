@@ -67,6 +67,18 @@ img {
     box-shadow: 10px 5px 5px black;
 }
 
+h2 {
+    font-size: 3rem;
+    margin: 0;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 2%;
+}
+
+.text-center {
+    text-align: center;
+}
+
 .about {
     inline-size: 29%;
     margin: auto;
