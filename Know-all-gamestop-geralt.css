@@ -129,7 +129,7 @@ footer {
 
 @media screen and (max-width: 320px) {
     .page-header {
-        block-size: 100px;
+        block-size: 400px;
     }
 
     nav > a {
@@ -145,12 +145,12 @@ footer {
     }
     h1 {
         margin-right: -75%;
-        margin-top: 4%;
-        margin-bottom: 4%;
+        margin-top: 6%;
+        margin-bottom: 6%;
     }
 
     .about {
         inline-size: 173%;
-        margin-bottom: 4%;
+        margin-bottom: 6%;
     }
 }
