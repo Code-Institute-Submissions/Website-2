@@ -161,8 +161,12 @@ footer {
         inline-size: 94.5%;
         margin-bottom: 6%;
     }
+
+    .ytp-cued-thumbnail-overlay-image {
+        inline-size: 50%;
+    }
     
     .footer-nav a {
-        padding-right: 6%;
+        padding-right: 12%;
     }
 }
