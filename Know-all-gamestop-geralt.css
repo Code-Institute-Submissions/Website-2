@@ -67,6 +67,18 @@ img {
     box-shadow: 10px 5px 5px black;
 }
 
+h2 {
+    font-size: 3rem;
+    margin: 0;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 2%;
+}
+
+.text-center {
+    text-align: center;
+}
+
 .about {
     inline-size: 29%;
     margin: auto;
@@ -115,50 +127,42 @@ footer {
 @media screen and (max-width: 768px) {
 
     img {
-        inline-size: 28.91%;
+        inline-size: 95%;
     }
 
     .about {
         inline-size: 60%;
     }
+
+    .footer-nav a {
+        padding-right: 5%;
+    }
 }
 
 @media screen and (max-width: 320px) {
-    body {
-        margin: 0;
-        background-color: rgb(73, 73, 73);
-        font-family: 'Couture';
-        font-weight: bold;
-        font-style: normal;
-    }
-
     .page-header {
-        padding: 88%;
-    }
-
-    .black-background {
-        inline-size: 167%;
-    }
-
-    img {
-        inline-size: 167%;
-    }
-
-    .vertical-center {
-        position: relative;
-        inset-block-start: 30%;
+        block-size: 400px;
+        margin-top: -12%;
     }
 
     nav > a {
         margin: 26px;
     }
 
-    .about {
-        inline-size: 100%;
+    .black-background {
+        inline-size: 92%;
+    }
+    h2 {
+        margin-top: 6%;
+        margin-bottom: 6%;
     }
 
-    footer {
-        margin-right: 0%;
+    .about {
+        inline-size: 94.5%;
+        margin-bottom: 6%;
     }
     
+    footer {
+       inline-size: 166%;
+    }
 }
