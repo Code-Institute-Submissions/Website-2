@@ -105,6 +105,8 @@ footer {
     .page-header {
         block-size: 400px;
         margin-top: -12%;
+        line-height: 100px;
+        font-size: 25px;
     }
 
     nav > a {
