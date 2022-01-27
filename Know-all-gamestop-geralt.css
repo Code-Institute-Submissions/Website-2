@@ -131,6 +131,11 @@ footer {
     body {
         margin: 0%;
         height: 480px;
-        width: 320;
+        width: 320px;
+    }
+
+    header {
+        height: 480px;
+        width: 320px;
     }
 }
