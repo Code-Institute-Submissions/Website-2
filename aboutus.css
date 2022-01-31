@@ -54,6 +54,7 @@ img {
 }
 
 .wabout {
+    inline-size: 50%;
     margin-top: 2%;
     font-family: "Oswald";
     text-align: center;
