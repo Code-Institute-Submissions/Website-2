@@ -13,6 +13,8 @@ body {
 .page-header {
     block-size: 29vh;
     background: center 50% / cover no-repeat;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
 }
 
 #home {
