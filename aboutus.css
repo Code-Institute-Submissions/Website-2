@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+body {
+    margin: 0;
+    background-color: rgb(73, 73, 73);
+    font-family: 'Couture';
+    font-weight: bold;
+    font-style: normal;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.page-header {
+    block-size: 50vh;
+    background: center 75% / cover no-repeat;
+}
+
+#home {
+    background-image: url(images/hero-img.jpg);
+}
+
+.vertical-center {
+    position: relative;
+    inset-block-start: 30%;
+}
