@@ -35,9 +35,8 @@ header {
     color: white;
 }
 
-img {
-    border-radius: 8px;
-    inline-size: 29.16%;
-    margin: 2%;
-    box-shadow: 10px 5px 5px black;
+p {
+    font-family: 10px;
+    color: white;
+    
 }
