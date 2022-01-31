@@ -39,8 +39,7 @@ header {
 .about {
     margin-top: 2%;
     font-family: "Oswald";
-    inline-size: 29%;
-    margin: auto;
+    text-align: center;
     color: white;
     background-color: rgb(0, 0, 0);
     font-size: 25px;
