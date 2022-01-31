@@ -37,6 +37,7 @@ header {
 }
 
 .about {
+    margin-top: 2%;
     font-family: "Oswald";
     inline-size: 29%;
     margin: auto;
