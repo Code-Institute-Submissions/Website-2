@@ -13,11 +13,11 @@ body {
 .page-header {
     block-size: 29vh;
     background: center 50% / cover no-repeat;
-    margin-top: 0%;
 }
 
 #home {
     background-image: url(images/about.png);
+    margin-top: 0%;
 }
 
 .vertical-center {
