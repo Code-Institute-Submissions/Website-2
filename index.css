@@ -3,7 +3,7 @@
 body {
     margin: 0;
     background-color: rgb(73, 73, 73);
-    font-family: 'Couture';
+    font-family: 'Oswald';
     font-weight: bold;
     font-style: normal;
 }
@@ -33,12 +33,12 @@ h1 {
 
 header {
     text-shadow: 8px 8px 13px rgb(0, 0, 0);
-    font-family: 'couture';
+    font-family: 'Oswald';
     color: white;
 }
 
 nav>a {
-    font-family: "couture";
+    font-family: "Oswald";
     font-size: 20px;
     color: white;
     display: inline;
@@ -83,7 +83,7 @@ footer p {
 
 .footer-nav a {
     color: white;
-    font-family: "couture";
+    font-family: "Oswald";
     text-decoration: none;
     padding-left: 46.5%;
 }
@@ -135,7 +135,7 @@ footer p {
 
 @media screen and (max-width: 414px) {
     body {
-        font-family: "couture", Oswald;
+        font-family: "Oswald";
     }
 
     .black-background {
