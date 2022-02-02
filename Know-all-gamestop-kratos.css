@@ -13,7 +13,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center 150%;
-    font-family: 'couture';
+    font-family: 'Oswald';
     color: white;
     font-size: 75px;
     background-image: url(https://wallpapercave.com/wp/wp2514508.jpg);
@@ -31,7 +31,7 @@ body {
 }
 
 nav > a {
-    font-family: "couture";
+    font-family: "Oswald";
     font-size: 20px;
     color: white;
     margin: 263.68px;
@@ -46,7 +46,7 @@ img {
 
 h2 {
     color: white;
-    font-family: "couture";
+    font-family: "Oswald";
     font-size: 40px;
     text-align: center;
 }
@@ -67,7 +67,7 @@ h2 {
 
 .footer-nav a {
     color: white;
-    font-family: "couture";
+    font-family: "Oswald";
     text-decoration: none;
     padding-right: 2%;
 }
