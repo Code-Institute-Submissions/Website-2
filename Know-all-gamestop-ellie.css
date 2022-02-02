@@ -62,18 +62,6 @@ h2 {
     margin-bottom: 4%;
 }
 
-.footer-nav li {
-    list-style-type: none;
-    display: inline;
-}
-
-.footer-nav a {
-    color: white;
-    font-family: "Oswald";
-    text-decoration: none;
-    padding-right: 2%;
-}
-
 footer {
 	background-color: #000000;
 	padding: 1em;
@@ -132,9 +120,5 @@ footer {
 
     .yt {
         inline-size: 100%;
-    }
-    
-    .footer-nav a {
-        padding-right: 12%;
     }
 }
