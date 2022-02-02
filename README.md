@@ -1,5 +1,11 @@
 # Know All Gamestop
 
-This website is to inform any curious gamers about any character they have an intrest for!
-The user is reasured that this information is relyable as it was created by a fellow passionate gamer.
-Work In Progress......
+Welcome.
+
+This website is called "Know All Gamestop" it is a place where courious new games can stop bye and inform themselves about a certain character they have recently came across while gaming. This website would be extreamily useful for young people learning about gameing and all ages that have recently took gaming as a hobbie on board. Users are greeted with a comforting mssage "Developed By Gamers For Gamers" they then know that Know All Gamestop is a relyable place to get there information from.
+
+
+[Home Page](https://seangrant18.github.io/Website/)
+
+
+![Home Responsive Pgae!](/images/ResponsiveHome.PNG "Home Responsive Image")
