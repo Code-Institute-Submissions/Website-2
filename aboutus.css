@@ -3,7 +3,7 @@
 body {
     margin: 0;
     background-color: rgb(73, 73, 73);
-    font-family: 'Couture';
+    font-family: 'Oswald';
 }
 
 .text-center {
@@ -32,7 +32,7 @@ h1 {
 
 header {
     text-shadow: 8px 8px 13px rgb(0, 0, 0);
-    font-family: 'couture';
+    font-family: 'Oswald';
     color: white;
 }
 
