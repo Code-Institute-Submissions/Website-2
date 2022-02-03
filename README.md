@@ -30,7 +30,7 @@ This section has three images that portaray the available pages for the user to 
 
 ![Three Nav Image!](/images/threeimg.PNG "Three Nav Image")
 
-# Gearlt (The Wicher) Page
+# Gearlt (The Witcher) Page
 
 ## The Landing Page Image
 
