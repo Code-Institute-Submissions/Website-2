@@ -17,3 +17,14 @@ This website is called "Know All Gamestop" it is a place where courious new game
 This image is from the game Last Of Us II, I made this the Landing Image as it make the overall website central. The comforting message "The Know All Gamestop Developed By Gamers For Gamers" portrays a good relationship between the user and the developer (Me). The user gets the impression that this website is reliable and trustworthy.
 
 ![Landing Image!](/images/Landingimage.PNG "Landing Image")
+
+## Navigation Bar
+
+Featured on all three pages, the full responsive navigation bar includes links to the Gearlt, Ellie, and Kratos.
+
+![Nav Image!](/images/nav.PNG "Nav Image")
+
+The Navigation bar in the page "Gearlt (The Witcher)" is shortened to make a more simplistic design and easy navigation. This simplistic design repeats throughout the "Ellie" Page and the "Kratos" Page.
+
+![Gearlt Nav Image!](/images/gearltnav.PNG "Gearlt Nav Image")
+
