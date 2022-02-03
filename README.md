@@ -28,3 +28,8 @@ The Navigation bar in the page "Gearlt (The Witcher)" is shortened to make a mor
 
 ![Gearlt Nav Image!](/images/gearltnav.PNG "Gearlt Nav Image")
 
+## Interatcion Section
+
+This section has three images that portaray the available pages for the user to view. The three images are also clickable the same as the navigation bar.
+
+![Three Nav Image!](/images/threeimg.PNG "Three Nav Image")
