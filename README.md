@@ -32,6 +32,8 @@ This section has three images that portaray the available pages for the user to 
 
 # Gearlt (The Witcher) Page
 
+[Gearlt Page](https://seangrant18.github.io/Website/Know-all-gamestop-geralt.html)
+
 ## The Landing Page Image
 
 This image is from the home page, I made this the Landing Image as it make the overall website easier to navigate.
