@@ -131,3 +131,19 @@ This section is the main purpose of the website, it gives a breif discription of
 This section is to give the user a breif video which enables the user to get more information on the character.
 
 ![YouTube Image!](/images/ytkratos.PNG "YouTube Image")
+
+
+
+# Testing
+
+I have taken great lengths for testingb this website from testing:
+* The Responsive Desgin
+* Resizing The YouTube Video To Match The Viewport
+* Making Sure The Images Fit My Desired Design
+
+## Bugs
+Throughout testing i have come across some stobern bugs such as:
+* Content Of The Navigation Bar Not Fitting Mobile Viewports
+* The "Gearlt Page" Was Displaying As Half The Actual Width In Chrome Developer Mode
+* The "Gearlt Page" Landing Page Was Not Fitting Correctly This Let Me To Restart The Page All Over
+
