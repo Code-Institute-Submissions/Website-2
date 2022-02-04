@@ -97,3 +97,37 @@ This section is the main purpose of the website, it gives a breif discription of
 This section is to give the user a breif video which enables the user to get more information on the character.
 
 ![YouTube Image!](/images/ytellie.PNG "YouTube Image")
+
+# Kratos Page
+
+[Kratos Page](https://seangrant18.github.io/Website/Know-all-gamestop-kratos.html)
+
+## The Landing Page Image
+
+This image is from the home page, I made this the Landing Image as it make the overall website easier to navigate.
+
+![Kratos Landing Image!](/images/kratoslanding.PNG "Kratos Landing Image")
+
+## Navigation Bar
+
+The Navigation bar in the page "Kratos" is shortened to make a more simplistic design and easy navigation.
+
+![Kratos Nav Image!](/images/kratosnav.PNG "Kratos Nav Image")
+
+## Interatcion Section
+
+This section has three images of the character for the user to view.
+
+![Three Kratos Image!](/images/threekratos.PNG "Three Kratos Image")
+
+## About Kratos
+
+This section is the main purpose of the website, it gives a breif discription of "Kratos". This simplistic design enables the user to get the information about the character whilst not being overwhelmed by an enormous amout of information.
+
+![About Kratos Image!](/images/aboutkratos.PNG "About Kratos Image")
+
+## YouTube Video
+
+This section is to give the user a breif video which enables the user to get more information on the character.
+
+![YouTube Image!](/images/ytkratos.PNG "YouTube Image")
