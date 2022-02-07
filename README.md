@@ -5,9 +5,6 @@ Welcome.
 This website is called "Know All Gamestop" it is a place where courious new games can stop by and inform themselves about a certain character they have recently came across while gaming. This website would be extreamily useful for young people learning about gaming and all ages that have recently took gaming as a hobbie on board. Users are greeted with a comforting mssage "Developed By Gamers For Gamers" they then know that Know All Gamestop is a reliable place to get there information from.
 
 
-[Home Page](https://seangrant18.github.io/Website/)
-
-
 ![Home Responsive Pgae!](/images/ResponsiveHome.PNG "Home Responsive Image")
 
 # Features On Home Page
@@ -31,8 +28,6 @@ This section has three images that portaray the available pages for the user to 
 ![Three Nav Image!](/images/threeimg.PNG "Three Nav Image")
 
 # Gearlt (The Witcher) Page
-
-[Gearlt Page](https://seangrant18.github.io/Website/Know-all-gamestop-geralt.html)
 
 ## The Landing Page Image
 
@@ -65,8 +60,6 @@ This section is to give the user a breif video which enables the user to get mor
 ![YouTube Image!](/images/ytgearlt.PNG "YouTube Image")
 
 # Ellie Page
-
-[Ellie Page](https://seangrant18.github.io/Website/Know-all-gamestop-ellie.html)
 
 ## The Landing Page Image
 
@@ -147,3 +140,23 @@ Throughout testing i have come across some stobern bugs such as:
 * The "Gearlt Page" Was Displaying As Half The Actual Width In Chrome Developer Mode
 * The "Gearlt Page" Landing Page Was Not Fitting Correctly This Let Me To Restart The Page All Over
 
+## Validator Testing
+HTML
+* No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/#textarea)
+CSS
+* No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
+
+# Deployment
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+* In the GitHub repository, navigate to the Settings tab
+* From the source section drop-down menu, select the Master Branch
+* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here - https://seangrant18.github.io/Website/
+
+## Content
+* Instructions on how to implement the YouTube elements was taken from [W3Schools](https://www.w3schools.com/html/default.asp)
+* Font was taken from [Google Fonts](https://fonts.google.com/)
+
+## Media
+* 
