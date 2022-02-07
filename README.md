@@ -159,4 +159,4 @@ The live link can be found here - https://seangrant18.github.io/Website/
 * Font was taken from [Google Fonts](https://fonts.google.com/)
 
 ## Media
-* 
+* All images were taken from Google Images
