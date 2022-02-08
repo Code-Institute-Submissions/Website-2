@@ -129,7 +129,7 @@ This section is to give the user a breif video which enables the user to get mor
 
 # Testing
 
-I have taken great lengths for testingb this website from testing:
+I have taken great lengths for testing this website from testing:
 * The Responsive Desgin
 * Resizing The YouTube Video To Match The Viewport
 * Making Sure The Images Fit My Desired Design
