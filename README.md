@@ -155,6 +155,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 The live link can be found here - https://seangrant18.github.io/Website/
 
 ## Content
+* Landing page Header was taken from the Code Institute Coders coffeehouse Website
 * Instructions on how to implement the YouTube elements was taken from [W3Schools](https://www.w3schools.com/html/default.asp)
 * Font was taken from [Google Fonts](https://fonts.google.com/)
 
